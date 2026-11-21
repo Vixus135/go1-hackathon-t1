@@ -1,0 +1,34 @@
+[0.735s] Invoking command in '/home/vboxuser/go1-hackathon-t1/ros2_ws/src/safety_block': PYTHONPATH=/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_block build --build-base /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build install --record /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log --install-scripts $base/lib/safety_block --single-version-externally-managed install_data
+[0.912s] running egg_info
+[0.912s] creating ../../build/safety_block/safety_block.egg-info
+[0.912s] writing ../../build/safety_block/safety_block.egg-info/PKG-INFO
+[0.913s] writing dependency_links to ../../build/safety_block/safety_block.egg-info/dependency_links.txt
+[0.913s] writing entry points to ../../build/safety_block/safety_block.egg-info/entry_points.txt
+[0.913s] writing requirements to ../../build/safety_block/safety_block.egg-info/requires.txt
+[0.914s] writing top-level names to ../../build/safety_block/safety_block.egg-info/top_level.txt
+[0.916s] writing manifest file '../../build/safety_block/safety_block.egg-info/SOURCES.txt'
+[0.916s] reading manifest file '../../build/safety_block/safety_block.egg-info/SOURCES.txt'
+[0.917s] writing manifest file '../../build/safety_block/safety_block.egg-info/SOURCES.txt'
+[0.919s] running build
+[0.919s] running build_py
+[0.919s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build
+[0.920s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib
+[0.920s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib/safety_block
+[0.920s] copying safety_block/__init__.py -> /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib/safety_block
+[0.921s] running install
+[0.921s] running install_lib
+[0.924s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block
+[0.925s] copying /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib/safety_block/__init__.py -> /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block
+[0.925s] byte-compiling /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block/__init__.py to __init__.cpython-310.pyc
+[0.926s] running install_data
+[0.926s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/share/ament_index
+[0.926s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/share/ament_index/resource_index
+[0.926s] creating /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/share/ament_index/resource_index/packages
+[0.926s] copying resource/safety_block -> /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/share/ament_index/resource_index/packages
+[0.927s] copying package.xml -> /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/share/safety_block
+[0.929s] running install_egg_info
+[0.930s] Copying ../../build/safety_block/safety_block.egg-info to /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block-0.0.0-py3.10.egg-info
+[0.933s] running install_scripts
+[0.951s] Installing safety_node script to /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/safety_block
+[0.951s] writing list of installed files to '/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log'
+[0.984s] Invoked command in '/home/vboxuser/go1-hackathon-t1/ros2_ws/src/safety_block' returned '0': PYTHONPATH=/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_block build --build-base /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build install --record /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log --install-scripts $base/lib/safety_block --single-version-externally-managed install_data

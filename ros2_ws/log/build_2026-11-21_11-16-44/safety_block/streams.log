@@ -1,0 +1,24 @@
+[0.543s] Invoking command in '/home/vboxuser/go1-hackathon-t1/ros2_ws/src/safety_block': PYTHONPATH=/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_block build --build-base /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build install --record /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log --install-scripts $base/lib/safety_block --single-version-externally-managed install_data
+[0.733s] running egg_info
+[0.734s] writing ../../build/safety_block/safety_block.egg-info/PKG-INFO
+[0.735s] writing dependency_links to ../../build/safety_block/safety_block.egg-info/dependency_links.txt
+[0.736s] writing entry points to ../../build/safety_block/safety_block.egg-info/entry_points.txt
+[0.737s] writing requirements to ../../build/safety_block/safety_block.egg-info/requires.txt
+[0.738s] writing top-level names to ../../build/safety_block/safety_block.egg-info/top_level.txt
+[0.740s] reading manifest file '../../build/safety_block/safety_block.egg-info/SOURCES.txt'
+[0.740s] writing manifest file '../../build/safety_block/safety_block.egg-info/SOURCES.txt'
+[0.741s] running build
+[0.742s] running build_py
+[0.742s] copying safety_block/safety_node.py -> /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib/safety_block
+[0.742s] running install
+[0.742s] running install_lib
+[0.744s] copying /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build/lib/safety_block/safety_node.py -> /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block
+[0.744s] byte-compiling /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block/safety_node.py to safety_node.cpython-310.pyc
+[0.744s] running install_data
+[0.744s] running install_egg_info
+[0.747s] removing '/home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block-0.0.0-py3.10.egg-info' (and everything under it)
+[0.747s] Copying ../../build/safety_block/safety_block.egg-info to /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages/safety_block-0.0.0-py3.10.egg-info
+[0.748s] running install_scripts
+[0.767s] Installing safety_node script to /home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/safety_block
+[0.769s] writing list of installed files to '/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log'
+[0.804s] Invoked command in '/home/vboxuser/go1-hackathon-t1/ros2_ws/src/safety_block' returned '0': PYTHONPATH=/home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/go1-hackathon-t1/ros2_ws/install/safety_block/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_block build --build-base /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/build install --record /home/vboxuser/go1-hackathon-t1/ros2_ws/build/safety_block/install.log --install-scripts $base/lib/safety_block --single-version-externally-managed install_data
